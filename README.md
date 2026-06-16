@@ -21,7 +21,7 @@ Graduate Software Developer interested in full-stack development, mobile applica
 * Product catalogue and ordering workflow
 * Backend API and production-style application structure
 * Designed to simulate a complete ordering experience
-* Repository link : <a href="https://github.com/JayIbell/MyRestaurant">Repository link</a>
+* <a href="https://github.com/JayIbell/MyRestaurant">Repository link</a>
 
 ### 🧘 Mental Health Support App (Swift)
 
