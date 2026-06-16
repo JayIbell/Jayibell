@@ -1,8 +1,4 @@
-<h1>Hi, I'm Jay 👋</h1>
 
-Graduate Software Developer | Full-Stack Development | Mobile Applications | Problem Solver
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LinkedIn</a>
 
 <h1>Hi, I'm Jay 👋</h1>
 
@@ -11,7 +7,7 @@ Graduate Software Developer interested in full-stack development, mobile applica
 </p>
 
 <p>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/jay-ibell-15aa09265">LinkedIn</a> •
 <a href="https://github.com/YOURUSERNAME">GitHub</a>
 </p>
 
