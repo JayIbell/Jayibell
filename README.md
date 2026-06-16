@@ -7,8 +7,8 @@ Graduate Software Developer interested in full-stack development, mobile applica
 </p>
 
 <p>
-<a href="https://www.linkedin.com/in/jay-ibell-15aa09265">LinkedIn</a> •
-<a href="https://github.com/YOURUSERNAME">GitHub</a>
+<a href="https://www.linkedin.com/in/jay-ibell-15aa09265" target="_blank">LinkedIn</a> •
+<a href="https://github.com/YOURUSERNAME"target="_blank">GitHub</a>
 </p>
 
 ---
@@ -99,11 +99,11 @@ Graduate Software Developer interested in full-stack development, mobile applica
 
 ## 📫 Connect With Me
 
-<a href="[https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/jay-ibell-15aa09265/)">LinkedIn</a>
+<a href="https://www.linkedin.com/in/jay-ibell-15aa09265" target="_blank">LinkedIn</a>
 
 <a href="mailto:YOUR_EMAIL">Jay.ibell@outlook.com</a>
 
-<a href="https://github.com/Jayibell">GitHub</a>
+<a href="https://github.com/Jayibell" target="_blank">GitHub</a>
 
 ---
 
